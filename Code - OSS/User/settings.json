@@ -1,0 +1,28 @@
+{
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[xml]": {
+    "editor.defaultFormatter": "redhat.vscode-xml"
+  },
+  "terminal.integrated.stickyScroll.enabled": false,
+  "redhat.telemetry.enabled": true,
+  "workbench.editor.empty.hint": "hidden",
+  "xml.server.vmargs": "-Xmx256M",
+  "workbench.secondarySideBar.defaultVisibility": "hidden",
+  "editor.renderWhitespace": "all",
+  "json.schemaDownload.trustedDomains": {
+    "https://developer.microsoft.com/json-schemas/": true,
+    "https://json-schema.org/": true,
+    "https://json.schemastore.org/": true,
+    "https://raw.githubusercontent.com": true,
+    "https://raw.githubusercontent.com/devcontainers/spec/": true,
+    "https://raw.githubusercontent.com/microsoft/vscode/": true,
+    "https://schemastore.azurewebsites.net/": true,
+    "https://www.schemastore.org/": true
+  },
+  "files.associations": {
+    "*.php8": "php"
+  },
+  "diffEditor.ignoreTrimWhitespace": false
+}

@@ -1,0 +1,14 @@
+dash-to-dock@micxgx.gmail.com
+advanced-media-controller@sanjai.com
+vertical-workspaces@G-dH.github.com
+gnome-clipboard@b00f.github.io
+window-thumbnails@G-dH.github.com
+focused-window-dbus@flexagoon.com
+blur-my-shell@aunetx
+appindicatorsupport@rgcjonas.gmail.com
+caffeine@patapon.info
+apps-menu@gnome-shell-extensions.gcampax.github.com
+places-menu@gnome-shell-extensions.gcampax.github.com
+screenshot-window-sizer@gnome-shell-extensions.gcampax.github.com
+system-monitor@gnome-shell-extensions.gcampax.github.com
+user-theme@gnome-shell-extensions.gcampax.github.com
