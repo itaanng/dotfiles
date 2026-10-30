@@ -24,5 +24,6 @@
   "files.associations": {
     "*.php8": "php"
   },
-  "diffEditor.ignoreTrimWhitespace": false
+  "diffEditor.ignoreTrimWhitespace": false,
+  "gitlens.graph.details.location": "auto"
 }
