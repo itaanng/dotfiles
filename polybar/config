@@ -64,7 +64,7 @@ font-1 = "Weather Icons:style=Regular;2"
 ; font-4 = "FontAwesome5Brands:style=Solid;3"
 
 
-modules-left = i3 sp1
+modules-left = i3
 modules-right = volume sp1 linux-ver sp1 updates sp2
 
 tray-position = right
