@@ -25,6 +25,7 @@
     "*.php8": "php",
     "i3/config": "i3_config",
     "i3/*.conf": "i3_config",
+    "i3/conf/*.i3.config": "i3_config",
     "polybar/config": "Ini",
     "polybar/*.conf": "Ini"
   },
